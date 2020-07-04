@@ -1,0 +1,26 @@
+.colorRosaOscuro {
+    background-color: #f0533f;
+}
+
+.colorRosaPalido {
+    background-color: #fc7665;
+}
+
+.fuenteBaskerville{
+    font-family: Baskerville;
+    font-style: oblique;
+}
+
+.fuentePoppins{
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+.imagenFondo{
+    background-image: url('https://images6.alphacoders.com/483/483806.jpg');
+    height: 500px;
+}
+
+.bigSize {
+    font-size: 3rem;
+}
