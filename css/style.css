@@ -1,9 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .colorRosaOscuro {
     background-color: #f0533f;
 }
 
 .colorRosaPalido {
     background-color: #fc7665;
+}
+
+.colorGris {
+    background-color: #c4c4a5;
+}
+
+.colorNegro {
+    background-color: black;
 }
 
 .fuenteBaskerville{
