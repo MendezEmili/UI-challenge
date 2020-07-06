@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
+
 .colorRosaOscuro {
     background-color: #f0533f;
 }
@@ -26,11 +27,14 @@
 .fuentePoppins{
     font-family: 'Poppins';
     font-style: normal;
+    font-size: large;
 }
 
 .imagenFondo{
     background-image: url('https://images6.alphacoders.com/483/483806.jpg');
-    height: 550px;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
 }
 
 .bigSize {
